@@ -1,0 +1,3 @@
+Saint-Petersburg;Kazan;3500;4000
+Kazan;Moscow;2500;3500
+Nizhnekamsk;Saint-Petersburg;2800;3200
